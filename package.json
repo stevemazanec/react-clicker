@@ -1,9 +1,11 @@
 {
   "name": "clicker",
+  "homepage": "https://stevemazanec.github.io/react-clicker/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.1.3",
+    "gh-pages": "^2.0.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.14.4",
     "react": "^16.5.0",
@@ -14,6 +16,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   }
 }
