@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "apu",
+        "image": "/images/apu.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "bart",
+        "image": "/images/bart.png",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "cletus",
+        "image": "/images/cletus.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "flanders",
+        "image": "/images/flanders.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "grandpa",
+        "image": "/images/grandpa.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "homer",
+        "image": "/images/homer.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "lisa",
+        "image": "/images/lisa.png",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "maggy",
+        "image": "/images/maggy.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "marge",
+        "image": "/images/marge.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "milhouse",
+        "image": "/images/milhouse.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "moe",
+        "image": "/images/moe.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "nelson",
+        "image": "/images/nelson.jpg",
+        "clicked": false
+    },
+    {
+        "id": 13,
+        "name": "ralph",
+        "image": "/images/ralph.png",
+        "clicked": false
+    },
+    {
+        "id": 14,
+        "name": "sideshow mel",
+        "image": "/images/sideshow-mel.jpg",
+        "clicked": false
+    }
+]

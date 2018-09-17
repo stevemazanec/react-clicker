@@ -1,0 +1,15 @@
+.nav li {
+    display: inline-block;
+    width: 33%
+}
+.navbar ul {
+    text-align: center;
+    width: 100%;
+}
+
+.navbar {
+    background-color: purple;
+    color: white;
+    font-size: 36px;
+    padding: 10px;
+}
