@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "apu",
-        "image": "/images/apu.jpg",
+        "image": "../public/images/apu.jpg",
         "clicked": false
     },
     {
